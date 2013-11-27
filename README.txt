@@ -5,7 +5,7 @@
 This git project contains the following directories:
 
 license
-A single file with the selected license for this set of code and applications.
+A single file with the selected license for this set of code and applications.  Need to add real license file.
 
 docs
 A single PDF file containing the PathMaker Handbook for reference and learning how to use the VUI design tool
